@@ -12,4 +12,6 @@ Currently, two official plugins are available:
 ## Contributors  
 - Rakshit Bansal
 - Sarthak Ray
+- Yash Tekwani
+- Akshat Kumar
 
