@@ -16,8 +16,8 @@ $git clone https://github.com/rakshit1504/SillyRatings-movie-review-site.git
 
 2. Open the project folder in your preferred code editor.
 3. type following commands in terminal of code editor:
-  $npm install
-  $npm run dev
+ - $npm install
+ - $npm run dev  
  it should provide a live localhost link with which you can access the site in your local browser
 4. Open the project in a web browser:
 - If you have a local server environment set up, you can run the project locally.
