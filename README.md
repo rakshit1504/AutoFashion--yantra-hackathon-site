@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 ## Installation
 
 1. Clone the repository:
-$git clone https://github.com/rakshit1504/SillyRatings-movie-review-site.git
+$git clone https://github.com/rakshit1504/AutoFashion--yantra-hackathon-site.git
 
 2. Open the project folder in your preferred code editor.
 3. type following commands in terminal of code editor:
