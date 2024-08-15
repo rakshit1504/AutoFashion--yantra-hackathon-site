@@ -23,8 +23,7 @@ $git clone https://github.com/rakshit1504/AutoFashion--yantra-hackathon-site.git
 - If you have a local server environment set up, you can run the project locally.
 - Alternatively, you can host the project on a web server to make it accessible online.
 
-## Contributors
- 
+## Contributors   
 - Rakshit Bansal
 - Sarthak Ray
 - Yash Tekwani
