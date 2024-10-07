@@ -44,7 +44,7 @@ To run the **AutoFashion** project locally, follow these simple steps:
 
 I was primarily responsible for implementing the **frontend** of the site, ensuring a **smooth and visually appealing user experience**. Using **React**, **CSS**, and **JavaScript**, I added **basic text animations** and interactive elements to make the site more engaging.
 
-Additionally, I connected the **backend with the frontend**, handling the flow of data and ensuring seamless communication between the server and client side. This combination of frontend and backend integration helped create a cohesive and functional platform for users.
+Additionally, connected the **backend with the frontend**, handling the flow of data and ensuring seamless communication between the server and client side. This combination of frontend and backend integration helped create a cohesive and functional platform for users.
 
 ---
 
@@ -53,13 +53,7 @@ Additionally, I connected the **backend with the frontend**, handling the flow o
 This project wouldn’t have been possible without the efforts of the entire team:
 - **Rakshit Bansal** – Frontend Development, Backend Integration, Animations  
 - **Sarthak Ray** – Backend Logic, API Handling  
-- **Yash Tekwani** – Database Management & Authentication  
+- **Yash Tekwani** – 3D model implementation, Database Management  
 - **Akshat Kumar** – UI/UX Design, Feature Implementation  
 
----
 
-Feel free to clone the repo and explore the project! Stay tuned for more updates and improvements!
-
----
-
-This revamped version of the README not only highlights your contributions but also provides an engaging overview of the project with added structure and emphasis. Let me know if you'd like to modify anything further!
