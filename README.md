@@ -25,7 +25,6 @@ This project is powered by **React + Vite**, offering minimal setup and blazing-
 - **Three.js** – For 3D modeling and real-time t-shirt customization.
 - **Blender** – Used for creating 3D assets and models of the t-shirts, mannequins, and more.
 
----
 
 ## 💻 Installation Guide  
 
