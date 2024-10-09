@@ -14,7 +14,6 @@ One of the standout features of **AutoFashion** is the use of **Three.js** and *
 - **Add Your Own Images**: Upload and apply your favorite pictures directly onto the t-shirt for a unique design.
 - **Hoodie Design**: In addition to t-shirts, users can also design hoodies with the same real-time 3D interface.
 
----
 
 ## 🚀 Tech Stack
 
