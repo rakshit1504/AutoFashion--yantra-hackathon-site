@@ -57,7 +57,6 @@ I was primarily responsible for implementing the **frontend**, ensuring a **smoo
 
 Additionally, connected the **backend with the frontend**, handling the flow of data and ensuring seamless communication between the server and client side.
 
----
 
 ## 👥 Contributors 
  
