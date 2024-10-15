@@ -53,8 +53,7 @@ To run the **AutoFashion** project locally, follow these simple steps:
 
 
 ## ✨ My Contribution  
-I was primarily responsible for implementing the **frontend**, ensuring a **smooth and visually appealing user experience**. Using **React**, **CSS**, and **JavaScript**, I added **basic text animations** and interactive elements to make the site more engaging.
-
+I was primarily responsible for implementing the **frontend**, ensuring a **smooth and visually appealing user experience**. Using **React**, **CSS**, and **JavaScript**, I added **basic text animations** and interactive elements to make the site more engaging.   
 Additionally, connected the **backend with the frontend**, handling the flow of data and ensuring seamless communication between the server and client side.
 
 
