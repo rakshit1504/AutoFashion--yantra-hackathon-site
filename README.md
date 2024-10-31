@@ -58,7 +58,7 @@ I was primarily responsible for implementing the **frontend**, ensuring a **smoo
 Additionally, connected the **backend with the frontend**, handling the flow of data and ensuring seamless communication between the server and client side.
 
 
-## 👥 Contributors
+## 👥 Contributors 
 
 This project wouldn’t have been possible without the efforts of the entire team:
 - **Rakshit Bansal** – Frontend Development, Backend Integration, Animations, 3D Modeling Integration  
