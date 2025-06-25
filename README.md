@@ -59,9 +59,9 @@ Additionally, connected the **backend with the frontend**, handling the flow of 
 
 ## 👥 Contributors  
 This project wouldn’t have been possible without the efforts of the entire team:
-- **Rakshit Bansal** – Frontend Development, Backend Integration, Animations, 3D Modeling Integration  
+- **Rakshit Bansal** – Frontend Development, Backend Integration, Animations 
 - **Sarthak Ray** – Backend Logic, API Handling  
-- **Yash Tekwani** – Database Management & Authentication  
+- **Yash Tekwani** – 3D Modeling, Database Management & Authentication  
 - **Akshat Kumar** – UI/UX Design, Feature Implementation  
 
 
