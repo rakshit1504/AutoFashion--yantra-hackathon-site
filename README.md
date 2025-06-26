@@ -17,6 +17,21 @@ One of the standout features of **AutoFashion** is the use of **Three.js** and *
 
 This project is powered by **React + Vite**, offering minimal setup and blazing-fast performance. Additionally, we've implemented **CSS** and **JavaScript** for text animations, enhancing the user experience with smooth transitions and interactive elements.
 
+## 🧢 Features
+AutoFashion offers a dynamic and creative platform for designing personalized garments in a real-time 3D environment. Here's what users can do:
+
+- 👕 **Choose Garment Types**: Pick between t-shirts, hoodies, jeans, and more to start your design journey.
+
+- 🧍 **Select Mannequin Size**: Visualize your creation on different body types using our 3D mannequins and size presets.
+
+- 🎨 **Customize Colors**: Use our built-in color palette to apply your favorite shades to any part of the garment.
+
+- 🖼️ **Upload Images or Logos**: Upload custom images or designs and apply them directly onto your garment in real time.
+
+- 🔄 **Real-Time 3D Preview**: Rotate, zoom, and explore your design in an interactive 3D view, powered by Three.js and Blender.
+
+- 💾 Data Persistence: Save your design progress or export final renders (not implemented yet. Idea for future implementation).
+
 ### Key Plugins & Libraries:
 - **[@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)** – Uses **Babel** for Fast Refresh.
 - **Three.js** – For 3D modeling and real-time t-shirt customization.
